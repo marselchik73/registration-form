@@ -45,6 +45,6 @@
 ## Как запустить в GitHub Pages
 
 Если этот репозиторий опубликован через GitHub Pages, форма доступна по адресу:  
-`https://marselchik73.github.io/registration-form/index.html`
+<https://marselchik73.github.io/registration-form/index.html>
 
 
